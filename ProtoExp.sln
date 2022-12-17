@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ProtoExp", "ProtoExp.fsproj", "{36AFAC2A-FDB8-48B5-B724-2A83B1E9037C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36AFAC2A-FDB8-48B5-B724-2A83B1E9037C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36AFAC2A-FDB8-48B5-B724-2A83B1E9037C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36AFAC2A-FDB8-48B5-B724-2A83B1E9037C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36AFAC2A-FDB8-48B5-B724-2A83B1E9037C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
